@@ -3,3 +3,7 @@ List of clothing
 T-shirt
 Jeans
 Slippers
+
+kurta 
+pyjama
+shoes
